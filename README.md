@@ -122,20 +122,20 @@ Sprint sonunda;
 
 
   
-### 📱 Daily Scrum - WhatsApp Yazışmaları
+### Daily Scrum - WhatsApp Yazışmaları
 - **Daily Scrum**: Daily Scrum toplantılarının Slack üzerinden yapılması kararlaştırılmıştır. Yazışmalar ise Whatsapp ve Slack üzerinden yapılmıştır. 
 
 | <img width="200" src="images/meet.PNG"> | <img width="200" src="images/EKLENECEK.png"> |
 
 
 
-### 📱 Sprint 1 board update: Sprint Board Screenshot:
+### Sprint 1 board update: Sprint Board Screenshot
 
 | <img width="200" src="images/ilkpano.PNG"> | <img width="200" src="images/orta.PNG"> | <img width="200" src="images/son.PNG"> |
 
 
-**Ürün Durumu**: Ekran Görüntüleri:  
-
+### Ürün Durumu**: Ekran Görüntüleri:
+  
 | Ana Sayfa | Vazgeçiş Ekle | İstatistikler |
 |-----------|---------------|---------------|
 | <img width="200" src="images/anasayfa.png"> | <img width="200" src="images/vazgecisekle.png"> | <img width="200" src="images/istatistikler.png"> |

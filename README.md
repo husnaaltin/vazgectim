@@ -123,19 +123,18 @@ Sprint sonunda;
 
   
 ### Daily Scrum - WhatsApp Yazışmaları
-- **Daily Scrum**: Daily Scrum toplantılarının Slack üzerinden yapılması kararlaştırılmıştır. Yazışmalar ise Whatsapp ve Slack üzerinden yapılmıştır. 
 
-<img width="200" src="images/meet.PNG">  <img width="200" src="images/EKLENECEK.png"> 
+Daily Scrum toplantılarının Slack üzerinden yapılması kararlaştırılmıştır. Yazışmalar ise WhatsApp ve Slack üzerinden yapılmıştır.
 
+<img width="200" src="images/meet.PNG"> <img width="200" src="images/EKLENECEK.png">
 
-
+---
 
 ### Sprint 1 board update: 
 - **Sprint Board Screenshot**: Görev takip ve paylaşımlarının Trello üzerinden yapılması kararlaştırılmıştır.  
  <img width="200" src="images/ilkpano.PNG">  <img width="200" src="images/orta.PNG">  <img width="200" src="images/son.PNG"> 
 
-
-
+---
 
 ### Ürün Durumu: 
 - **Ekran Görüntüleri**: Uygulamanın hem mobil hem de web üzerinden kullanılabilmesi istenmiş ve ikisi için ayrı ayrı tasarımlar yapılmıştır. 
@@ -144,7 +143,7 @@ Sprint sonunda;
 |-----------|---------------|---------------|
 | <img width="200" src="images/anasayfa.png"> | <img width="200" src="images/vazgecisekle.png"> | <img width="200" src="images/istatistikler.png"> |
 
-
+---
 
   **Sprint Review**:
 Sprint 1'in temel hedefi, yapay zeka entegrasyonu olmadan uçtan uca çalışan bir iskelet prototip ortaya çıkarmaktı.

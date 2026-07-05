@@ -129,12 +129,15 @@ Sprint sonunda;
 
 
 
-### Sprint 1 board update: Sprint Board Screenshot
+### Sprint 1 board update: 
+- **Sprint Board Screenshot**: Görev takip ve paylaşımlarının Trello üzerinden yapılması kararlaştırılmıştır. 
+- 
+ <img width="200" src="images/ilkpano.PNG">  <img width="200" src="images/orta.PNG">  <img width="200" src="images/son.PNG"> 
 
-| <img width="200" src="images/ilkpano.PNG"> | <img width="200" src="images/orta.PNG"> | <img width="200" src="images/son.PNG"> |
 
+### Ürün Durumu**: 
+- **Ekran Görüntüleri**: Uygulamanın hem mobil hem de web üzerinden kullanılabilmesi istenmiş ve ikisi için ayrı ayrı tasarımlar yapılmıştır. 
 
-### Ürün Durumu**: Ekran Görüntüleri:
   
 | Ana Sayfa | Vazgeçiş Ekle | İstatistikler |
 |-----------|---------------|---------------|

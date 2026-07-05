@@ -125,7 +125,7 @@ Sprint sonunda;
 ### Daily Scrum - WhatsApp Yazışmaları
 - **Daily Scrum**: Daily Scrum toplantılarının Slack üzerinden yapılması kararlaştırılmıştır. Yazışmalar ise Whatsapp ve Slack üzerinden yapılmıştır. 
 
-| <img width="200" src="images/meet.PNG"> | <img width="200" src="images/EKLENECEK.png"> |
+ <img width="200" src="images/meet.PNG">  <img width="200" src="images/EKLENECEK.png"> 
 
 
 

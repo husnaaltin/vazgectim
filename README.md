@@ -145,7 +145,7 @@ Sprint sonunda;
 
 ---
 
-  **Sprint Review**:
+  ###Sprint Review:
 Sprint 1'in temel hedefi, yapay zeka entegrasyonu olmadan uçtan uca çalışan bir iskelet prototip ortaya çıkarmaktı.
 Tamamlanan:
 - Takım kimliği ve GitHub repo kurulumu
@@ -162,7 +162,7 @@ Genel değerlendirme: Sprint hedefinin büyük bölümü başarıyla tamamlandı
 
 
 
-  **Sprint Retrospective:**
+  ###Sprint Retrospective:
 - Teknik altyapı sorunsuz kuruldu, n8n ve Google Sheets entegrasyonu başarıyla tamamlandı
 - Sprint hedefinin büyük bölümü zamanında teslim edildi
 - Scrum rollerinin işlevselliği ekip çalışmasına olumlu katkı sağladı

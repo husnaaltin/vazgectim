@@ -47,6 +47,8 @@ Bireylerin harcama alışkanlıklarını daha bilinçli hale getirmek, vazgeçil
 ## Takım İsmi
 StackOverthink
 
+---
+
 # 👥 Takım Üyeleri
 
 | Rol | Üye |

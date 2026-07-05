@@ -120,11 +120,10 @@ Sprint sonunda;
 - n8n veri akışı kurulmuş,
 - Tasarruf Cüzdanı çalışır duruma getirilmiş olacaktır.
 
-
+- **Daily Scrum**: Görüşmeler Slack üzerinden yapılmış yazışmalar Whatsapp ve Slack üzerinden  sağlanmıştır. .
   
 ### 📱 Daily Scrum - WhatsApp Yazışmaları
 
-- **Daily Scrum**: Görüşmeler Slack üzerinden yapılmış yazışmalar Whatsapp ve Slack üzerinden  sağlanmıştır. .
 | <img width="200" src="images/meet.PNG"> | <img width="200" src="images/EKLENECEK.png"> |
 
 

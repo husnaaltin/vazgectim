@@ -1,4 +1,5 @@
-<img width="600" alt="Logo" src="images/logo.jpeg">
+# <div align="center">
+![Vazgeçtim Logo](images/logo.jpeg)
 # 💡 Vazgeçtim
 
 ### *"Harcamadığın her kuruş, geleceğine yapılan bir yatırımdır."*

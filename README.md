@@ -134,9 +134,7 @@ Sprint sonunda;
 
 - **Ürün Durumu**: Ekran Görüntüleri:
 <img width="250" alt="Ekran 1" src="images/anasayfa.png">
-
 <img width="250" alt="Ekran 2" src="images/vazgecisekle.png">
-
 <img width="250" alt="Ekran 3" src="images/istatistikler.png">
 
 

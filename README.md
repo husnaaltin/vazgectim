@@ -3,7 +3,7 @@
 ![Vazgeçtim Logo](images/logo.jpeg)
 
 </div>
-# 💡 Vazgeçtim
+
 
 ### *"Harcamadığın her kuruş, geleceğine yapılan bir yatırımdır."*
 

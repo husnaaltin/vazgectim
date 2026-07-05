@@ -118,15 +118,15 @@ Sprint sonunda;
   
 ### 📱 Daily Scrum - WhatsApp Yazışmaları
 
-<img width="250" alt="Whatsapp 1" src="images/meet.PNG">
+| <img width="200" src="images/meet.PNG"> | <img width="200" src="images/EKLENECEK.png"> |
 
-<img width="250" alt="Whatsapp 2" src="images/whatsapp2.png">
 
 - **SİLİNECEKTasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
 
 - **Sprint 1 board update**: Sprint Board Screenshot:
-- 
-| <img width="200" src="images/ilkpano.png"> | <img width="200" src="images/orta.png"> | <img width="200" src="images/son.png"> |
+  
+| <img width="200" src="images/ilkpano.PNG"> | <img width="200" src="images/orta.PNG"> | <img width="200" src="images/son.PNG"> |
+
 
 **Ürün Durumu**: Ekran Görüntüleri:  
 

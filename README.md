@@ -132,7 +132,7 @@ Sprint sonunda;
 
 ### Sprint 1 board update: 
 - **Sprint Board Screenshot**: Görev takip ve paylaşımlarının Trello üzerinden yapılması kararlaştırılmıştır.  
- <img width="300" src="images/ilkpano.PNG">  <img width="300" src="images/orta.PNG">  <img width="300" src="images/son.PNG"> 
+ <img width="350" src="images/ilkpano.PNG">  <img width="350" src="images/orta.PNG">  <img width="350" src="images/son.PNG"> 
 
 ---
 

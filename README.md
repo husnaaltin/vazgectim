@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="600" alt="Vazgeçtim Logo" src="images/logo.jpeg">
+![Vazgeçtim Logo](images/logo.jpeg)
 
 </div>
 # 💡 Vazgeçtim

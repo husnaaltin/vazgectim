@@ -124,13 +124,9 @@ Sprint sonunda;
 
 - **SİLİNECEKTasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
 
-- **Sprint 1 board update**: Sprint Board Screenshot: 
-<img width="250" alt="Ekran 1" src="images/ilkpano.png">
-
-<img width="250" alt="Ekran 2" src="images/orta.png">
-
-<img width="250" alt="Ekran 3" src="images/son.png">
-
+- **Sprint 1 board update**: Sprint Board Screenshot:
+- 
+| <img width="200" src="images/ilkpano.png"> | <img width="200" src="images/orta.png"> | <img width="200" src="images/son.png"> |
 
 **Ürün Durumu**: Ekran Görüntüleri:  
 

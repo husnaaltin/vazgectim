@@ -94,6 +94,7 @@ Proje toplam **3 Sprint** olarak planlanmıştır.
 | Sprint 3 | Son Rötuşlar ve Teslim | 20 Temmuz – 2 Ağustos | 9 |
 
 Toplam planlanan görev sayısı **27**'dir.
+[Backlog_Board](https://github.com/KaanKerimGodek/YZTA_Bootcamp2026_Grup1/blob/main/images/backlog.PNG)
 
 Backlog Dağıtım Mantığı
 Görevler şu mantıkla 3 sprint'e bölündü:
@@ -125,8 +126,8 @@ Sprint sonunda;
 ### Daily Scrum - WhatsApp Yazışmaları
 
 - Daily Scrum toplantılarının Slack üzerinden yapılması kararlaştırılmıştır. Yazışmalar ise WhatsApp ve Slack üzerinden yapılmıştır.
-
-<img width="200" src="images/meet.PNG"> <img width="200" src="images/EKLENECEK.png">
+[Sprint 1 Daily Scrum](https://github.com/KaanKerimGodek/YZTA_Bootcamp2026_Grup1/tree/main/Sprint1_Daily_Scrum)
+<img width="200" src="images/meet.PNG"> 
 
 ---
 
@@ -139,9 +140,13 @@ Sprint sonunda;
 ### Ürün Durumu: 
 - **Ekran Görüntüleri**: Uygulamanın hem mobil hem de web üzerinden kullanılabilmesi istenmiş ve ikisi için ayrı ayrı tasarımlar yapılmıştır. 
 
-| Ana Sayfa | Vazgeçiş Ekle | İstatistikler |
-|-----------|---------------|---------------|
-| <img width="200" src="images/anasayfa.png"> | <img width="200" src="images/vazgecisekle.png"> | <img width="200" src="images/istatistikler.png"> |
+| Ana Sayfa(Mobil) | Vazgeçiş Ekle(Mobil) | İstatistikler(Mobil) | Profil(Mobil) |
+|------------------|----------------------|----------------------|---------------|
+| <img width="200" src="images/anasayfa.png"> | <img width="200" src="images/vazgecisekle.png"> | <img width="200" src="images/istatistikler.png"> |<img width="200" src="images/profil.png"> |
+
+| Ana Sayfa(Web) | Vazgeçiş Ekle(Web) | İstatistikler(Web) |İstatistikler(Web) |
+|----------------|--------------------|--------------------|-------------------|
+| <img width="200" src="images/web-anasayfa1.png"> | <img width="200" src="images/web-ekleme.png"> | <img width="200" src="images/web-istatistik1.png"> |<img width="200" src="images/web-istatistik2.png"> |
 
 ---
 

@@ -175,3 +175,9 @@ Genel değerlendirme: Sprint hedefinin büyük bölümü başarıyla tamamlandı
 - Trello üzerindeki görev takibinin daha aktif kullanılması planlanıyor
 
 
+
+
+  ---
+# 🚀 Sprint 2
+
+

@@ -200,11 +200,11 @@ Genel değerlendirme: Sprint hedefinin büyük bölümü başarıyla tamamlandı
 ### Ürün Durumu: 
 - **Ekran Görüntüleri**: Uygulamanın hem mobil hem de web tarafında 2. sprint için hedeflenen değişiklikler yapılmıştır.
 
-| Ana Sayfa(Mobil) | Vazgeçiş Ekle(Mobil) | İstatistikler(Mobil) | Profil(Mobil) |
+| Hedef(Mobil) | İçgörü(Mobil) | Tasarruf Eşiği(Mobil) | Tetikleyici Anlar(Mobil) |
 |------------------|----------------------|----------------------|---------------|
-| <img width="200" src="images/xxx.png"> | <img width="200" src="images/xxx.png"> | <img width="200" src="images/xxx.png"> |<img width="200" src="images/xxx.png"> |
+| <img width="200" src="images/Hedef.jpeg"> | <img width="200" src="images/icgoruler.png"> | <img width="200" src="images/hedef2.PNG"> |<img width="200" src="images/An.PNG"> |
 
-| Ana Sayfa(Web) | Vazgeçiş Ekle(Web) | İstatistikler(Web) |İstatistikler(Web) |
+| Ana Sayfa(Web) | İçgörü(Web) | İstatistikler(Web) |İstatistikler(Web) |
 |----------------|--------------------|--------------------|-------------------|
 | <img width="200" src="images/web-anaayfa1.png"> | <img width="200" src="images/web-eklme.png"> | <img width="200" src="images/web-istatstik1.png"> |<img width="200" src="images/web-istatisik2.png"> |
 

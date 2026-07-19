@@ -140,9 +140,9 @@ Sprint sonunda;
 ### Ürün Durumu: 
 - **Ekran Görüntüleri**: Uygulamanın hem mobil hem de web üzerinden kullanılabilmesi istenmiş ve ikisi için ayrı ayrı tasarımlar yapılmıştır. 
 
-| Ana Sayfa(Mobil) | Vazgeçiş Ekle(Mobil) | İstatistikler(Mobil) | Profil(Mobil) |
+| Hedef(Mobil) | İçgörü(Mobil) | Tasarruf Eşiği(Mobil) | Tetikleyici Anlar(Mobil) |
 |------------------|----------------------|----------------------|---------------|
-| <img width="200" src="images/anasayfa.png"> | <img width="200" src="images/vazgecisekle.png"> | <img width="200" src="images/istatistikler.png"> |<img width="200" src="images/profil.png"> |
+| <img src="images/Hedef.jpeg" style="width:200px; height:400px; object-fit:cover;"> | <img src="images/icgoruler.png" style="width:200px; height:400px; object-fit:cover;"> | <img src="images/hedef2.PNG" style="width:200px; height:400px; object-fit:cover;"> | <img src="images/An.PNG" style="width:200px; height:400px; object-fit:cover;"> |
 
 | Ana Sayfa(Web) | Vazgeçiş Ekle(Web) | İstatistikler(Web) |İstatistikler(Web) |
 |----------------|--------------------|--------------------|-------------------|

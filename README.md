@@ -142,7 +142,7 @@ Sprint sonunda;
 
 | Hedef(Mobil) | İçgörü(Mobil) | Tasarruf Eşiği(Mobil) | Tetikleyici Anlar(Mobil) |
 |------------------|----------------------|----------------------|---------------|
-| <img src="images/Hedef.jpeg" style="width:200px; height:400px; object-fit:cover;"> | <img src="images/icgoruler.png" style="width:200px; height:400px; object-fit:cover;"> | <img src="images/hedef2.PNG" style="width:200px; height:400px; object-fit:cover;"> | <img src="images/An.PNG" style="width:200px; height:400px; object-fit:cover;"> |
+| <img src="images/Hedef.jpeg" style="width:200px; height:300px; object-fit:cover;"> | <img src="images/icgoruler.png" style="width:200px; height:300px; object-fit:cover;"> | <img src="images/hedef2.PNG" style="width:200px; height:300px; object-fit:cover;"> | <img src="images/An.PNG" style="width:200px; height:300px; object-fit:cover;"> |
 
 | Ana Sayfa(Web) | Vazgeçiş Ekle(Web) | İstatistikler(Web) |İstatistikler(Web) |
 |----------------|--------------------|--------------------|-------------------|

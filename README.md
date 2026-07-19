@@ -213,28 +213,29 @@ Genel değerlendirme: Sprint hedefinin büyük bölümü başarıyla tamamlandı
   ### Sprint Review:
 Sprint 2'nin temel hedefi, yapay zeka katmanını entegre ederek ürünü "akıllı" hale getirmekti.
 Tamamlanan:
-- AI servis seçimi ve API bağlantısı
-- Otomatik kategori sınıflandırma
-- Tetikleyici an analizi
-- Haftalık içgörü metni üretimi
-- İçgörü ekranının arayüze eklenmesi
-- Tasarruf eşiği bildirimleri
-- Veri tutarlılığı ve hata kontrolü
+- AI servis seçimi ve API bağlantısı yapıldı.
+- AI ile otomatik kategori sınıflandırma eklendi.
+- Tetikleyici an analizi yapılarak hangi zaman diliminde en çok neyden vazgeçildiği belirlendi.
+- Haftalık içgörü metni üretimi eklenerek motivasyon artışı amaçlandı.
+- İçgörü ekranının arayüze eklenmesi ve geliştirilmesi tamamlandı.
+- Tasarruf eşiği ile belirli bir hedef için vazgeçilen harcama miktarının takip edilmesi sağlandı.
+- Veri tutarlılığı ve hata kontrolü yapıldı.
 
 Bir sonraki sprinte devreden:
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+- Belirli tasarruf miktarına ulaşıldığında otomatik bildirim/mesaj gönderimi (WhatsApp/Telegram/e-posta).
 
 Genel değerlendirme: Sprint hedefinin büyük bölümü başarıyla tamamlandı, devreden görevler Sprint 3'ünn ilk günlerinde kapatılacak.
 
 
 
   ### Sprint Retrospective:
-- AI servis seçimi birlikte yapıldı, API bağlantısı ve diğer görevler başarıyla tamamlandı
-- Sprint hedefinin büyük bölümü zamanında teslim edildi
+- AI servis seçimi birlikte yapıldı, API bağlantısı ve diğer görevler başarıyla tamamlandı.
+- API test süreçlerinde karşılaşılan anlık yoğunluk ve format uyuşmazlıkları, sonraki sprintler için veri doğrulama (validation) süreçlerinin önemini gösterdi.
+- Sprint hedefinin büyük bölümü zamanında teslim edildi.
 - Daily Scrum'lar olumsuz şartlar sebebiyle büyük ölçüde yazışma şeklinde yapıldı.
-- Trello üzerindeki görev takibinin daha aktif kullanılması proje yönetimini büyük ölçüde kolaylaştırdı
-- xxx
-- xxxx
+- Trello üzerindeki görev takibinin daha aktif kullanılması proje yönetimini büyük ölçüde kolaylaştırdı.
+- Entegrasyon aşamalarının daha pürüzsüz geçmesi adına, sonraki sprintte arayüz ve altyapı testlerinin daha erken günlerde başlatılması planlanıyor.
+
 
 
 
